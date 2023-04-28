@@ -1,0 +1,302 @@
+[
+  {
+    "id": "33177",
+    "question": "You may drive off the paved roadway to pass another vehicle:",
+    "options": [
+      "If the shoulder is wide enough to accommodate your vehicle.",
+      "If the vehicle ahead of you is turning left.",
+      "Under no circumstances."
+    ],
+    "answer": "Under no circumstances."
+  },
+  {
+    "id": "23944",
+    "question": "When approaching a railroad crossing with no warning device, the speed limit is:",
+    "options": [
+      "15 mph.",
+      "20 mph.",
+      "25 mph."
+    ],
+    "answer": "15 mph."
+  },
+  {
+    "id": "32665",
+    "question": "Parallel parking is when the:",
+    "options": [
+      "Front wheels are turned toward the street.",
+      "Vehicle is in line with other parked vehicles.",
+      "Rear wheels are touching the curb."
+    ],
+    "answer": "Vehicle is in line with other parked vehicles."
+  },
+  {
+    "id": "18941",
+    "question": "When you are merging onto the freeway, you should be driving:",
+    "options": [
+      "At or near the same speed as the traffic on the freeway.",
+      "5 to 10 MPH slower than the traffic on the freeway.",
+      "The posted speed limit for traffic on the freeway."
+    ],
+    "answer": "At or near the same speed as the traffic on the freeway."
+  },
+  {
+    "id": "63859",
+    "question": "Dim your high-beam headlights to low-beams within ______ feet when a vehicle is coming towards you.",
+    "options": [
+      "200",
+      "300",
+      "500"
+    ],
+    "answer": "500"
+  },
+  {
+    "id": "29073",
+    "question": "A blue curb means:",
+    "options": [
+      "Parking for mail delivery only.",
+      "Parking for disabled persons with a special placard or license plate.",
+      "Parking for disabled persons."
+    ],
+    "answer": "Parking for disabled persons with a special placard or license plate."
+  },
+  {
+    "id": "33951",
+    "question": "There is a school bus ahead of you in your lane with flashing yellow lights. You should:",
+    "options": [
+      "Stop, then proceed when you think all the children have exited the bus.",
+      "Slow to 25 MPH and pass cautiously.",
+      "Slow down and prepare to stop."
+    ],
+    "answer": "Slow down and prepare to stop."
+  },
+  {
+    "id": "33084",
+    "question": "California's \"Basic Speed Law\" says:",
+    "options": [
+      "You should never drive faster than posted speed limits.",
+      "You should never drive faster than is safe for current conditions.",
+      "The maximum speed limit in California is 70 mph on certain freeways."
+    ],
+    "answer": "You should never drive faster than is safe for current conditions."
+  },
+  {
+    "id": "90928",
+    "question": "You just sold your vehicle. You must notify ______ within 5 days.",
+    "options": [
+      "CHP",
+      "DMV",
+      "Your insurance provider"
+    ],
+    "answer": "DMV"
+  },
+  {
+    "id": "28608",
+    "question": "Looking down the road to where your vehicle will be in about 10 seconds helps you to ______________.",
+    "options": [
+      "Enjoy the scenery",
+      "Avoid last minute moves",
+      "See hazards inside your car"
+    ],
+    "answer": "Avoid last minute moves"
+  },
+  {
+    "id": "55081",
+    "question": "Which of these is not a pedestrian",
+    "options": [
+      "Bicyclist",
+      "Disabled person using a wheelchair",
+      "Blind person with a cane"
+    ],
+    "answer": "Bicyclist"
+  },
+  {
+    "id": "89540",
+    "question": "Which of the following statements about blind spots is true",
+    "options": [
+      "They are eliminated if you have one outside mirror on each side of the vehicle",
+      "Large trucks have bigger blind spots than most passenger vehicles",
+      "Blind spots can be checked by looking in your rear-view mirrors"
+    ],
+    "answer": "Large trucks have bigger blind spots than most passenger vehicles"
+  },
+  {
+    "id": "27431",
+    "question": "Which of these is considered a common cause of collision",
+    "options": [
+      "Unsafe speed",
+      "Not following stop signs, signals, and signs",
+      "All the above"
+    ],
+    "answer": "All the above"
+  },
+  {
+    "id": "28617",
+    "question": "A person convicted of reckless driving or engaging in a speed contest that causes injury to another person is subject to",
+    "options": [
+      "Imprisonment and/or fine",
+      "Community service",
+      "All the above"
+    ],
+    "answer": "Imprisonment and/or fine"
+  },
+  {
+    "id": "18358",
+    "question": "You may legally block an intersection",
+    "options": [
+      "When you entered the intersection on the green light",
+      "During rush hour traffic",
+      "Under no circumstances"
+    ],
+    "answer": "Under no circumstances"
+  },
+  {
+    "id": "58393",
+    "question": "When you park on a hill, your vehicle could roll due to an equipment failure. Remember to",
+    "options": [
+      "Leave the vehicle in neutral",
+      "Set the parking brake",
+      "Set the parking break and leave the vehicle in park"
+    ],
+    "answer": "Set the parking break and leave the vehicle in park"
+  },
+  {
+    "id": "24026",
+    "question": "With a Class C driver's license, a person may drive a",
+    "options": [
+      "Light rail train",
+      "Car, van, or pick-up truck",
+      "Semi-truck"
+    ],
+    "answer": "Car, van, or pick-up truck"
+  },
+  {
+    "id": "64445",
+    "question": "To turn left from a one-way street onto a one-way street, you should start your turn from",
+    "options": [
+      "Any lane",
+      "The lane closest to the left curb",
+      "The lane in the center of the road"
+    ],
+    "answer": "The lane closest to the left curb"
+  },
+  {
+    "id": "17778",
+    "question": "If you are involved in a traffic collision with property damage of $1000 or more, you are required to complete and submit a written report (SR1) to",
+    "options": [
+      "CHP",
+      "DMV",
+      "EDD"
+    ],
+    "answer": "DMV"
+  },
+  {
+    "id": "27663",
+    "question": "Roadways are least slippery",
+    "options": [
+      "On bridges in freezing temperatures",
+      "After it has been raining for a while",
+      "During the first rain after a dry spell"
+    ],
+    "answer": "After it has been raining for a while"
+  },
+  {
+    "id": "80889",
+    "question": "You may not park your vehicle:",
+    "options": [
+      "On the side of the freeway in an emergency.",
+      "Next to a red painted curb.",
+      "Within 100 feet of an elementary school."
+    ],
+    "answer": "Next to a red painted curb."
+  },
+  {
+    "id": "19939",
+    "question": "If you are involved in a traffic collision and no one is injured, you are required to complete and submit a written report (SR1) to:",
+    "options": [
+      "EDD.",
+      "DMV.",
+      "CHP."
+    ],
+    "answer": "DMV."
+  },
+  {
+    "id": "21289",
+    "question": "Treat lines as a barrier, when:",
+    "options": [
+      "Two sets of solid, double white lines are spaced two feet apart.",
+      "Two sets of solid, double yellow lines are spaced two or more feet apart.",
+      "Two sets of broken yellow lines are spaced one foot apart."
+    ],
+    "answer": "Two sets of solid, double yellow lines are spaced two or more feet apart."
+  },
+  {
+    "id": "20855",
+    "question": "You want to make a right turn at an upcoming intersection. You should slow down and:",
+    "options": [
+      "Move toward the left side of your lane.",
+      "Avoid driving in the bicycle lane.",
+      "Signal for 5 feet before turning."
+    ],
+    "answer": "Move toward the left side of your lane."
+  },
+  {
+    "id": "15072",
+    "question": "You are driving on a freeway and the posted speed limit is 65 mph. The traffic is traveling at 70 mph. You may legally drive:",
+    "options": [
+      "70 mph or faster to keep up with the speed of traffic.",
+      "Between 65 mph and 70 mph.",
+      "No faster than 65 mph."
+    ],
+    "answer": "No faster than 65 mph."
+  },
+  {
+    "id": "20515",
+    "question": "It is illegal to park your vehicle:",
+    "options": [
+      "In an unmarked crosswalk.",
+      "Within three feet of a private driveway.",
+      "In a bicycle lane."
+    ],
+    "answer": "In an unmarked crosswalk."
+  },
+  {
+    "id": "13332",
+    "question": "The safest precaution you can take regarding the use of cell phones and driving is:",
+    "options": [
+      "Only use your cell phone in hands-free mode when necessary.",
+      "Keep your phone within easy reach so you will not need to take your eyes off the road.",
+      "Review the number before answering a call."
+    ],
+    "answer": "Only use your cell phone in hands-free mode when necessary."
+  },
+  {
+    "id": "13012",
+    "question": "When is it safe to enter an intersection on a solid green light?",
+    "options": [
+      "When you can go around the traffic already in the intersection.",
+      "When you have enough space to cross the intersection before the light turns red.",
+      "When you cannot completely cross the intersection."
+    ],
+    "answer": "When you have enough space to cross the intersection before the light turns red."
+  },
+  {
+    "id": "24404",
+    "question": "You are getting ready to make a right turn. You should:",
+    "options": [
+      "Signal and turn immediately.",
+      "Stop before entering the right lane and let all other traffic go first.",
+      "Slow down or stop, look left-right-left, and make the turn when safe."
+    ],
+    "answer": "Slow down or stop, look left-right-left, and make the turn when safe."
+  },
+  {
+    "id": "81811",
+    "question": "You must obey instructions from school safety patrols or crossing guards:",
+    "options": [
+      "At all times.",
+      "Only during school hours.",
+      "Unless you do not see any children present."
+    ],
+    "answer": "At all times."
+  }
+]

@@ -36,3 +36,91 @@
     transform: rotate(360deg);
   }
 }
+
+
+  .quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .question {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .option-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  
+  .option-label {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .option-input {
+    margin-right: 10px;
+  }
+  
+  .submit-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #3e8e41;
+  }
+  
+
+  .form-check:hover .form-check-input {
+    background-color: #fff;
+    border-color: #007bff;
+    transform: scale(1.5);
+  }
+  .form-check:hover .form-check-input:checked {
+    background-color: #007bff;
+    border-color: #007bff;
+
+  }
+  .form-check:hover .form-check-input:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+
+  }
+  .form-check:hover .form-check-label {
+    color: #007bff;
+  }
+
+  .bg-success-personal {
+    background-color: #52ee57;
+    font-weight: bold;
+  }
+  
+  .bg-danger-personal {
+    background-color: #f74610;
+    font-weight: bold;
+  }
+  
+
+
+  .btn-primary {
+    background-color: #ffc800; /* your primary color */
+    border-color: #ffffff; /* your primary color */
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.15); /* drop shadow */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9; /* your primary color, but slightly darker */
+    border-color: #ffffff; /* your primary color, but slightly darker */
+  }
+  

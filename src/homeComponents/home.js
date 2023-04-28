@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import questions from "../data/quizData.json";
 //import { Link } from "react-router-dom";
-import { Row, Col, Button } from 'react-bootstrap';
+import { Button } from 'react-bootstrap';
 import StartQuizButton from "../components/StartQuizButton";
 
 
